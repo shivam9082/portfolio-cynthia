@@ -1,0 +1,11 @@
+What are we going to use here for animatin using javascript?
+1) smooth scrolling
+     Steps:
+        copy css code from locomotive javascript
+        copy js code in query selector write your main page container.
+        copy script of locomotive min js from cdn.
+
+2)gsap
+    gsap - A wildly robust JavaScript animation library built for professionals.
+    attach gsap script tag from gsap cdn.
+3) scrolltrigger.
